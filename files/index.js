@@ -6,8 +6,8 @@ const UUID = process.env.UUID || 'b8466078-e4f5-45e5-8a56-b1e78023b850'; //若�
 const NEZHA_SERVER = process.env.NEZHA_SERVER || 'nz.f4i.cn';     
 const NEZHA_PORT = process.env.NEZHA_PORT || '5555';                     // 哪吒端口为{443,8443,2096,2087,2083,2053}其中之一开启tls
 const NEZHA_KEY = process.env.NEZHA_KEY || '5ddVS93Eq0Uc9he880';
-const ARGO_DOMAIN = process.env.ARGO_DOMAIN || 'choreo10.djryuv.onflashdrive.app';     // 建议使用token，argo端口8080，cf后台设置需对应,使用json需上传json和yml文件至files目录
-const ARGO_AUTH = process.env.ARGO_AUTH || 'eyJhIjoiMjdmYTg0MWZjODgyOWI2NGExOTViNmIzMTQ2ZWQ3NDkiLCJ0IjoiMzhmOWRiNjUtMmRhZS00ODBhLTkyYzEtNmJmZGZiMDc5MjI0IiwicyI6Ik1UVXlObVZqWmpRdE1UZGhZUzAwTVdGaUxUazRZMlF0TlRabVpEazNPVGxrTnpabCJ9';
+const ARGO_DOMAIN = process.env.ARGO_DOMAIN || 'glitch33.hvjjgjk.com';     // 建议使用token，argo端口8080，cf后台设置需对应,使用json需上传json和yml文件至files目录
+const ARGO_AUTH = process.env.ARGO_AUTH || '{"AccountTag":"27fa841fc8829b64a195b6b3146ed749","TunnelSecret":"JM1l7LJEy4X73hhjBIdV1XPfIwxfd7cl/lRLXHe++QI=","TunnelID":"3067e58b-c0a7-466d-8d90-ba540547baa1"}aa5b07a2-40d0-4c63-99ce-6d20db2c741d';
 const CFIP = process.env.CFIP || 'government.se';
 const NAME = process.env.NAME || 'Choreo';
 
